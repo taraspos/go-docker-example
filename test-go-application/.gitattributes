@@ -1,0 +1,2 @@
+test-go-application filter=lfs diff=lfs merge=lfs -text
+*-application filter=lfs diff=lfs merge=lfs -text
